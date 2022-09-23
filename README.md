@@ -11,5 +11,5 @@ java m.java
 
 ```java
 com.negodev
-com.negodev.Network
+com.negodev.utils.Network
 ```
